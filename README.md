@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F7B93E&center=true&vCenter=true&width=500&lines=Hello+World!+🌍;Data+Science+Student+%40+ITERA;Python+%26+R+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&lines=Hello+World!+🌍;Data+Science+Student+%40+ITERA;Python+%26+R+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me  
+## 🚀 About Me
 - 🎓 **Data Science Student @ ITERA (2023)**  
 - 🌱 Currently learning **Python, R, and Data Analytics**  
 - 💡 Passionate about **Data Science, AI, and solving problems with code**  
@@ -16,40 +16,39 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabiocyto&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fabiobanyu&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ---
 
-### 📷 About Me
-<div align="center">
+## 📷 Profile
+<p align="center">
   <img src="https://cdn.discordapp.com/attachments/833344740073144360/1412799539446026300/WhatsApp_Image_2025-09-03_at_20.59.20_219ca8bd1.jpg" 
-       alt="Profile Image" 
-       width="150" 
-       height="150" 
-       style="border-radius: 50%; border: 2px solid #fff; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <p><i>"Curious learner, passionate about Data Science and solving problems through code."</i></p>
-</div>
+       alt="Profile Image"
+       width="150"
+       style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" />
+</p>
+<p align="center"><i>"Curious learner, passionate about Data Science and solving problems through code."</i></p>
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/fabiocyto" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
