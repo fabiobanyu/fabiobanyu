@@ -10,7 +10,8 @@
 
 ---
 
-🚀 **Student of Data Science ITERA 2023**  
+### Information About Me
+🚀 **Student of Data Science ITERA**  
 🌱 **Currently Learning:** Python, R, HTML, CSS, & JS  
 📫 **How to reach me:** [fabiocyto74@gmail.com](mailto:fabiocyto74@gmail.com)  
 
