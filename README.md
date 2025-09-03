@@ -1,4 +1,4 @@
-# Hi, I'm Fabio Banyu Cyto! 👋
+<h1 align="center">Hi, I'm Fabio Banyu Cyto! 👋</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C41D,100:FF5733&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=40" />
