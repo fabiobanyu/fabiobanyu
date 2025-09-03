@@ -40,19 +40,20 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/fabiobanyu" target="_blank">
+  <a href="https://github.com/fabiobanyu" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/clouds/100/github.png" width="65"/>
   </a>
-  <a href="mailto:fabiocyto74@gmail.com" target="_blank">
+  <a href="mailto:fabiocyto74@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/clouds/100/gmail.png" width="65"/>
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/clouds/100/instagram-new.png" width="65"/>
   </a>
-  <a href="https://wa.me/6285769715375" target="_blank">
+  <a href="https://wa.me/6285769715375" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/clouds/100/whatsapp.png" width="65"/>
   </a>
 </p>
+
 
 ---
 
