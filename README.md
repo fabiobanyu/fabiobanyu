@@ -23,7 +23,7 @@
         </p>
     </div>
     <div style="flex: 0;">
-        <img src="https://cdn.discordapp.com/attachments/833344740073144360/1314141653010743326/WhatsApp_Image_2024-12-05_at_15.09.11_fe44d9d3.jpg?ex=6752b149&is=67515fc9&hm=987a59f9d9411d9311ac330c54a75b2d0ae0697897e7aa3b0f5f1ce00cd9ba47" 
+        <img src="https://cdn.discordapp.com/attachments/833344740073144360/1412799539446026300/WhatsApp_Image_2025-09-03_at_20.59.20_219ca8bd1.jpg?ex=68b99b9a&is=68b84a1a&hm=a548ec71321638be224cd3fe8b564cb5e7189a95f5a2d724efad7a852daf2f3d&" 
             alt="Profile Image" 
             width="120" 
             height="120" 
