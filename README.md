@@ -11,7 +11,7 @@
 ---
 
 🚀 **Student of Data Science ITERA 2023**  
-🌱 **Currently Learning:** Python, R, HTML, CSS, & Js**
+🌱 **Currently Learning:** Python, R, HTML, CSS, & Js
 📫 **How to reach me:** [fabiocyto74@gmail.com](mailto:fabiocyto74@gmail.com)  
 
 ---
@@ -24,7 +24,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
 </p>
 
 ---
