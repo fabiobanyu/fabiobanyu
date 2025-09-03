@@ -16,18 +16,9 @@
 
 ---
 
-### 🏴‍☠️ Fun Touch
-<div align="center">
-  <img src="https://media.tenor.com/Hz0mm-Js-9QAAAAC/gear-5-luffy-joyboy.gif" width="400"/>
-  <br><br>
-  <i>"I'm gonna be the King of Data Science! ⚡ - inspired by Luffy"</i>
-</div>
-
----
-
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,jupyter,html,css,js,git,github&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,r,jupyter,html,css,js,git,github&perline=7" />
 </p>
 
 ---
@@ -36,10 +27,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=fabiobanyu&theme=radical&hide_border=true" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fabiobanyu&theme=radical&no-frame=true&row=1&column=6" height="120"/>
 </div>
 
 ---
@@ -58,6 +45,12 @@
     <a href="tel:+6285769715375" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"I'm gonna be the King of Data Science! ⚡ - inspired by Luffy"</i>
 </p>
 
 <p align="center">
