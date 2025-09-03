@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7C41D,100:FF5733&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=40" />
 </p>
 
-align="center">Hi, I'm Fabio Banyu Cyto! 👋
+<p align="center">Hi, I'm Fabio Banyu Cyto! 👋 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7C41D&center=true&vCenter=true&width=600&lines=Hello+World!;Data+Science+Enthusiast;Always+Learning+%26+Exploring;Future+King+of+Data+Science!⚡" alt="Typing Animation" />
