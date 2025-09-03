@@ -1,15 +1,21 @@
 # Hi, I'm Fabio Banyu Cyto! 👋
 
-### 🚀 Student of Data Science ITERA 2023  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7C41D&center=true&vCenter=true&width=500&lines=Hello+World!;Welcome+to+my+GitHub+Profile;Data+Science+Enthusiast;Always+Learning+%26+Exploring!" alt="Typing Animation" />
+</p>
+
+🚀 **Student of Data Science ITERA 2023**  
 🌱 **Currently Learning:** Python and R  
 📫 **How to reach me:** [fabiocyto74@gmail.com](mailto:fabiocyto74@gmail.com)  
 
 ---
 
-### 💻 Hello World Animation
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7C41D&center=true&vCenter=true&width=500&lines=Hello+World!;Welcome+to+my+GitHub+Profile;Data+Science+Enthusiast;Always+Learning+%26+Exploring!" alt="Typing Animation" />
-</p>
+### 🏴‍☠️ Fun Touch
+<div align="center">
+  <img src="https://media.tenor.com/Hz0mm-Js-9QAAAAC/gear-5-luffy-joyboy.gif" width="350"/>
+  <br>
+  <i>"I'm gonna be the King of Data Science! ⚡ - inspired by Luffy"</i>
+</div>
 
 ---
 
@@ -33,15 +39,6 @@
 
 ---
 
-### 🏴‍☠️ Fun Touch
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQwMmMwdTFvZ3psYTVyYjZtN3E5ZnRoZ2ZibXBmeTB1ZzU1NWt1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qQdL532ZANbjy/giphy.gif" width="350"/>
-  <br>
-  <i>"I'm gonna be the King of Data Science! ⚡ - inspired by Luffy"</i>
-</div>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
     <a href="https://github.com/fabiobanyu" target="_blank">
@@ -54,6 +51,6 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="tel:+6285769715375" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+        <img src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
 </p>
