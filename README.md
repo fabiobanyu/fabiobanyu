@@ -40,18 +40,18 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-    <a href="https://github.com/fabiobanyu" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="mailto:fabiocyto74@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://www.instagram.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="tel:+6285769715375" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-    </a>
+  <a href="https://github.com/fabiobanyu" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40" height="40"/>
+  </a>
+  <a href="mailto:fabiocyto74@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" width="40" height="40"/>
+  </a>
+  <a href="https://wa.me/6285769715375" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png" width="40" height="40"/>
+  </a>
 </p>
 
 ---
