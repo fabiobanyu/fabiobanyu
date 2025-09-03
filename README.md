@@ -8,10 +8,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F7C41D&center=true&vCenter=true&width=600&lines=Hello+World!;Data+Science+Enthusiast;Always+Learning+%26+Exploring;Future+King+of+Data+Science!⚡" alt="Typing Animation" />
 </p>
 
+---
+
 ### Information About Me
+
 🚀 **Student of Data Science ITERA**  
 🌱 **Currently Learning:** Python, R, HTML, CSS, & JS  
 📫 **How to reach me:** [fabiocyto74@gmail.com](mailto:fabiocyto74@gmail.com)  
+
+---
 
 ### 🛠️ Languages & Tools
 <p align="center">
