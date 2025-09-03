@@ -1,23 +1,19 @@
-<h1 align="center">Hi, I'm Fabio Banyu Cyto! 👋</h1>
+# Hi, I'm Fabio Banyu Cyto! 👋
 
-<!-- Typing animation -->
+### 🚀 Student of Data Science ITERA 2023  
+🌱 **Currently Learning:** Python and R  
+📫 **How to reach me:** [fabiocyto74@gmail.com](mailto:fabiocyto74@gmail.com)  
+
+---
+
+### 💻 Hello World Animation
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=FF6E96&center=true&vCenter=true&width=600&lines=Hello+World!+🌍;Welcome+to+my+GitHub+Profile!;Data+Science+Student+%40+ITERA;Keep+Learning%2C+Keep+Growing!+🔥" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7C41D&center=true&vCenter=true&width=500&lines=Hello+World!;Welcome+to+my+GitHub+Profile;Data+Science+Enthusiast;Always+Learning+%26+Exploring!" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 **Data Science Student @ ITERA (2023)**  
-- 🌱 Currently learning **Python, R, HTML, CSS, JavaScript**  
-- 💡 Passionate about **Data Science, AI, and Web Development**  
-- 📫 Reach me at: [**fabiocyto74@gmail.com**](mailto:fabiocyto74@gmail.com)  
-
----
-
-## 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="60" height="60"/>
@@ -29,38 +25,35 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabiobanyu&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true" height="160"/>
+</div>
 
 ---
 
-## 🏴‍☠️ Fun Touch
-<p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-one-piece.gif" width="300"/>
-</p>
-<p align="center"><i>"I'm gonna be the King of Data Science! ⚡ - inspired by Luffy"</i></p>
+### 🏴‍☠️ Fun Touch
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQwMmMwdTFvZ3psYTVyYjZtN3E5ZnRoZ2ZibXBmeTB1ZzU1NWt1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qQdL532ZANbjy/giphy.gif" width="350"/>
+  <br>
+  <i>"I'm gonna be the King of Data Science! ⚡ - inspired by Luffy"</i>
+</div>
 
 ---
 
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/fabiocyto" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:fabiocyto74@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="tel:+6285769715375" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+    <a href="https://github.com/fabiobanyu" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="mailto:fabiocyto74@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.instagram.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="tel:+6285769715375" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
 </p>
