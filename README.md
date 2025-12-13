@@ -16,7 +16,7 @@
 
 ### 🧐 About Me
 
-Saya adalah mahasiswa sarjana **Sains Data di Institut Teknologi Sumatera (ITERA)** dengan ketertarikan mendalam pada dunia data. Didorong oleh rasa ingin tahu yang tinggi, saya senang memecahkan masalah yang kompleks dan menemukan pola tersembunyi di balik tumpukan angka.
+Saat ini saya adalah seorang Mahasiswa S1 **Sains Data di Institut Teknologi Sumatera (ITERA)** dengan ketertarikan mendalam pada dunia data. Didorong oleh rasa ingin tahu yang tinggi, saya senang memecahkan masalah yang kompleks dan menemukan pola tersembunyi di balik tumpukan angka.
 
 Fokus utama saya saat ini adalah membangun fondasi yang kuat dalam:
 
