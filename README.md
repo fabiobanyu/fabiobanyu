@@ -37,61 +37,51 @@ Fokus utama saya saat ini adalah membangun fondasi yang kuat dalam:
 
 Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gunakan dalam petualangan data saya:
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding-right: 40px;">
-      <h4>🗣️ Programming Languages</h4>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50"/>
-      <br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </td>
-    <td align="center" style="border: none;">
-       <h4>🐼 Data Science Libraries & Tools</h4>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="45" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45"/>
-      <br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <h4>🗣️ Programming Languages</h4>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 5px;"/>
+
+  <br><br>
+
+  <h4>🐼 Data Science Libraries & Tools</h4>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="45" height="45" style="margin: 5px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="45" height="45" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" style="margin: 5px;"/>
+
+</div>
 
 ---
 
 ### 📊 GitHub Analytics
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; width: 50%;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Fabio's Stats" />
-      </a>
-    </td>
-    <td align="center" style="border: none; width: 50%;">
-      <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-        <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com?user=fabiobanyu&theme=radical&hide_border=true" alt="Fabio's Streak" />
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="center" style="border: none; width: 50%;">
-      <br>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-      </a>
-    </td>
-    <td align="center" style="border: none; width: 50%;">
-      <br>
-      <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabiobanyu&theme=radical&utcOffset=7" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=fabiobanyu&theme=radical&hide_border=true" />
+  </a>
+  
+  <br/>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabiobanyu&theme=radical&utcOffset=7" />
+  </a>
+
+</div>
 
 <br>
 
