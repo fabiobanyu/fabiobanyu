@@ -13,18 +13,35 @@
 ---
 
 <br>
-
 ### 🧐 About Me
 
-<p>
-Saya adalah mahasiswa sarjana **Sains Data di Institut Teknologi Sumatera (ITERA)** dengan ketertarikan mendalam pada dunia data. Didorong oleh rasa ingin tahu yang tinggi, saya senang memecahkan masalah yang kompleks dan menemukan pola tersembunyi di balik tumpukan angka.
-</p>
-<p>
-Fokus utama saya saat ini adalah membangun fondasi yang kuat dalam **Machine Learning**, **Analisis Data Statistik**, dan **Visualisasi Data**. Bagi saya, data bukan sekadar angka, melainkan cerita yang menunggu untuk diungkapkan. Saya berambisi untuk terus belajar dan berkembang menjadi seorang Data Scientist andal yang dapat memberikan dampak nyata.
-</p>
-<p align="center">
-  <i>"Exploring the Grand Line of Technology with passion and perseverance."</i>
-</p>
+<table border="0">
+  <tr>
+    <td width="65%" valign="center">
+      <br>
+      <p>
+        Saya adalah mahasiswa sarjana <b>Sains Data di Institut Teknologi Sumatera (ITERA)</b> dengan ketertarikan mendalam pada dunia data. Didorong oleh rasa ingin tahu yang tinggi, saya senang memecahkan masalah yang kompleks dan menemukan pola tersembunyi di balik tumpukan angka.
+      </p>
+      <p>
+        Fokus utama saya saat ini adalah membangun fondasi yang kuat dalam:
+      </p>
+      <ul>
+        <li>🤖 <b>Machine Learning</b></li>
+        <li>📊 <b>Analisis Data Statistik</b></li>
+        <li>📈 <b>Visualisasi Data</b></li>
+      </ul>
+      <p>
+        Bagi saya, data bukan sekadar angka, melainkan cerita yang menunggu untuk diungkapkan. Saya berambisi untuk terus belajar dan berkembang menjadi seorang Data Scientist andal yang dapat memberikan dampak nyata.
+      </p>
+      <p>
+        <i>"Exploring the Grand Line of Technology with passion and perseverance."</i> ⛵
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/WmkqburJqXziM/giphy.gif" alt="Luffy Coding" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -59,13 +76,24 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <p>Melihat aktivitas coding saya:</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=fabiobanyu&theme=radical&hide_border=true" />
+  </a>
+  
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="Fabio's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fabiobanyu&theme=radical&hide_border=true" height="160" alt="Fabio's Streak"/>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img height="165" src="https://github-profile-trophy.vercel.app/?username=fabiobanyu&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
 </div>
 
 <br>
