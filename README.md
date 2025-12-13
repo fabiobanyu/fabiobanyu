@@ -13,35 +13,23 @@
 ---
 
 <br>
+
 ### 🧐 About Me
 
-<table border="0">
-  <tr>
-    <td width="65%" valign="center">
-      <br>
-      <p>
-        Saya adalah mahasiswa sarjana <b>Sains Data di Institut Teknologi Sumatera (ITERA)</b> dengan ketertarikan mendalam pada dunia data. Didorong oleh rasa ingin tahu yang tinggi, saya senang memecahkan masalah yang kompleks dan menemukan pola tersembunyi di balik tumpukan angka.
-      </p>
-      <p>
-        Fokus utama saya saat ini adalah membangun fondasi yang kuat dalam:
-      </p>
-      <ul>
-        <li>🤖 <b>Machine Learning</b></li>
-        <li>📊 <b>Analisis Data Statistik</b></li>
-        <li>📈 <b>Visualisasi Data</b></li>
-      </ul>
-      <p>
-        Bagi saya, data bukan sekadar angka, melainkan cerita yang menunggu untuk diungkapkan. Saya berambisi untuk terus belajar dan berkembang menjadi seorang Data Scientist andal yang dapat memberikan dampak nyata.
-      </p>
-      <p>
-        <i>"Exploring the Grand Line of Technology with passion and perseverance."</i> ⛵
-      </p>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/WmkqburJqXziM/giphy.gif" alt="Luffy Coding" width="100%">
-    </td>
-  </tr>
-</table>
+Saya adalah mahasiswa sarjana **Sains Data di Institut Teknologi Sumatera (ITERA)** dengan ketertarikan mendalam pada dunia data. Didorong oleh rasa ingin tahu yang tinggi, saya senang memecahkan masalah yang kompleks dan menemukan pola tersembunyi di balik tumpukan angka.
+
+Fokus utama saya saat ini adalah membangun fondasi yang kuat dalam:
+
+* 🤖 **Machine Learning & AI**
+* 📊 **Analisis Data Statistik**
+* 📈 **Visualisasi Data**
+* 💻 **Website Front-End Development**
+
+> _"Bagi saya, data bukan sekadar angka, melainkan cerita yang menunggu untuk diungkapkan. Saya berambisi untuk terus belajar dan berkembang menjadi seorang Data Scientist andal yang dapat memberikan dampak nyata."_
+
+<p align="center">
+  <b><i>"Exploring the Grand Line of Technology with passion and perseverance."</i> ⛵</b>
+</p>
 
 ---
 
@@ -51,7 +39,7 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
 
 <table align="center" style="border: none;">
   <tr style="border: none;">
-    <td align="center" style="border: none; padding-right: 50px;">
+    <td align="center" style="border: none; padding-right: 40px;">
       <h4>🗣️ Programming Languages</h4>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50"/>
@@ -80,19 +68,16 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=fabiobanyu&theme=radical&hide_border=true" />
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=fabiobanyu&theme=radical&hide_border=true" />
   </a>
   
-  <br>
+  <br><br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=6"/>
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img height="165" src="https://github-profile-trophy.vercel.app/?username=fabiobanyu&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+    <img height="140" width="86%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
   </a>
 </div>
 
@@ -115,7 +100,7 @@ Tertarik untuk berkolaborasi dalam proyek data, atau sekadar berdiskusi tentang 
   <a href="https://www.instagram.com/USERNAME_INSTAGRAM_ANDA/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-   <a href="https://wa.me/6285769715375" target="_blank">
+  <a href="https://wa.me/6285769715375" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
