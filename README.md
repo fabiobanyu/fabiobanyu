@@ -90,7 +90,7 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
 
 ### 🌐 Let's Connect!
 
-Tertarik untuk berkolaborasi dalam proyek data, atau sekadar berdiskusi tentang AI dan teknologi? Hubungi saya!
+Tertarik untuk berkolaborasi dalam proyek data, atau sekadar berdiskusi tentang teknologi, data, dan AI? Hubungi saya!
 
 <p align="center">
   <a href="mailto:fabiocyto74@gmail.com" target="_blank">
