@@ -66,25 +66,33 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=fabiobanyu&theme=radical&hide_border=true" />
-  </a>
-  
-  <br><br>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="140" width="86%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-  </a>
-</div>
+<table style="border: none; border-collapse: collapse; width: 100%;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; width: 50%;">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Fabio's Stats" />
+      </a>
+    </td>
+    <td align="center" style="border: none; width: 50%;">
+      <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+        <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com?user=fabiobanyu&theme=radical&hide_border=true" alt="Fabio's Streak" />
+      </a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td colspan="2" align="center" style="border: none;">
+      <br>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img style="width: 90%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fabiobanyu&bg_color=141321&color=F7C41D&line=FF5733&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabiobanyu&bg_color=141321&color=F7C41D&line=FF5733&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
