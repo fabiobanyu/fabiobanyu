@@ -80,11 +80,15 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
     </td>
   </tr>
   <tr style="border: none;">
-    <td colspan="2" align="center" style="border: none;">
+    <td align="center" style="border: none; width: 50%;">
       <br>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img style="width: 90%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
       </a>
+    </td>
+    <td align="center" style="border: none; width: 50%;">
+      <br>
+      <img style="width: 100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabiobanyu&theme=radical&utcOffset=7" alt="Productive Time" />
     </td>
   </tr>
 </table>
