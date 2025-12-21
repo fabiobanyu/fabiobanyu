@@ -61,31 +61,32 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
 
 ### 📊 GitHub Analytics
 
-<table style="width:100%; border: none;">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true" style="width:100%;" alt="Fabio's Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=fabiobanyu&theme=radical&hide_border=true" style="width:100%;" alt="Fabio's Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=8" style="width:100%;" alt="Top Languages" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabiobanyu&theme=radical&utcOffset=7" style="width:100%;" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" alt="Fabio's Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=fabiobanyu&theme=radical&hide_border=true" width="100%" alt="Fabio's Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=fabiobanyu&theme=radical&no-bg=true&margin-w=15" width="100%" alt="Trophies" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabiobanyu&bg_color=141321&color=F7C41D&line=FF5733&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabiobanyu&bg_color=0D1117&color=F7C41D&line=FF5733&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
-
 ---
 
 ### 🌐 Let's Connect!
