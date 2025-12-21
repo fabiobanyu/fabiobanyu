@@ -76,7 +76,9 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=fabiobanyu&theme=radical&no-bg=true&column=3&margin-w=15" width="100%" alt="Trophies" />
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+          <img src="https://github-profile-trophy.vercel.app/?username=fabiobanyu&theme=radical&no-bg=true&column=3&margin-w=15" width="100%" alt="Trophies" />
+        </a>
       </td>
     </tr>
   </table>
