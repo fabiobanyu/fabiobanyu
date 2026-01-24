@@ -108,7 +108,7 @@ Tertarik untuk berkolaborasi dalam proyek data, atau sekadar berdiskusi tentang 
   <a href="https://wa.me/6285769715375" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://www.linkedin.com/in/fabiobanyu/" target="_blank">
+  <a href="[https://www.linkedin.com/in/fabiobanyu/](https://www.linkedin.com/in/fabio-banyu-cyto-1318782ab/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
