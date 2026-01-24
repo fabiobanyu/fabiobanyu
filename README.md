@@ -62,59 +62,60 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
-      <td width="50%" align="center">
+      <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" alt="Fabio's Stats" />
       </td>
-      <td width="50%" align="center">
+      <td align="center" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=fabiobanyu&theme=radical&hide_border=true" width="100%" alt="Fabio's Streak" />
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=6" width="100%" alt="Top Languages" />
       </td>
-      <td width="50%" align="center">
+      <td align="center" width="50%">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
           <img src="https://github-profile-trophy.vercel.app/?username=fabiobanyu&theme=radical&no-bg=true&column=3&margin-w=15" width="100%" alt="Trophies" />
         </a>
       </td>
     </tr>
   </table>
+
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabiobanyu&bg_color=141321&color=fe428e&line=f71d56&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
+
 </div>
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabiobanyu&bg_color=0D1117&color=F7C41D&line=FF5733&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
 ---
 
 ### 🌐 Let's Connect!
 
 Tertarik untuk berkolaborasi dalam proyek data, atau sekadar berdiskusi tentang teknologi, data, dan AI? Hubungi saya!
 
-<p align="center">
+<div align="center">
   <a href="mailto:fabiocyto74@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/USERNAME_INSTAGRAM_ANDA/" target="_blank">
+  <a href="https://www.instagram.com/fabiobanyu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://wa.me/6285769715375" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/fabiobanyu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <br>
   <i>"I'm gonna be the King of Data Science! ⚡"</i>
   <br> - inspired by Monkey D. Luffy
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
