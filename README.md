@@ -62,22 +62,22 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" alt="Fabio's Stats" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Fabio's Stats" width="100%"/>
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=fabiobanyu&theme=radical&hide_border=true" width="100%" alt="Fabio's Streak" />
+      <td width="50%" align="center">
+        <img src="https://streak-stats.demolab.com?user=fabiobanyu&theme=radical&hide_border=true" alt="Fabio's Streak" width="100%"/>
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=6" width="100%" alt="Top Languages" />
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="100%"/>
       </td>
-      <td align="center" width="50%">
+      <td width="50%" align="center">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=fabiobanyu&theme=radical&no-bg=true&column=3&margin-w=15" width="100%" alt="Trophies" />
+          <img src="https://github-profile-trophy.vercel.app/?username=fabiobanyu&theme=radical&no-bg=true&column=3&margin-w=15" alt="Trophies" width="100%"/>
         </a>
       </td>
     </tr>
