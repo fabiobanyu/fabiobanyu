@@ -92,7 +92,6 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabiobanyu&bg_color=141321&color=fe428e&line=f71d56&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
-
 ---
 
 ### 🌐 Let's Connect!
