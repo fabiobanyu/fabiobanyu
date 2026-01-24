@@ -59,7 +59,7 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
 
 ---
 
-### 📊 GitHub Analytics
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
   <table border="0" width="100%">
@@ -80,9 +80,7 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabiobanyu&theme=radical&utcOffset=7" alt="Productive Time" width="100%"/>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/fabiobanyu/DataVers-Competition-Lightgbm-Model">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiobanyu&repo=DataVers-Competition-Lightgbm-Model&theme=radical&hide_border=true" alt="DataVers Project" width="100%"/>
-        </a>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabiobanyu&theme=radical" alt="Profile Details" width="100%"/>
       </td>
     </tr>
   </table>
@@ -108,11 +106,10 @@ Tertarik untuk berkolaborasi dalam proyek data, atau sekadar berdiskusi tentang 
   <a href="https://wa.me/6285769715375" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="[https://www.linkedin.com/in/fabiobanyu/](https://www.linkedin.com/in/fabio-banyu-cyto-1318782ab/)" target="_blank">
+  <a href="https://www.linkedin.com/in/fabio-banyu-cyto-1318782ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
 ---
 
 <div align="center">
