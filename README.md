@@ -66,21 +66,21 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" alt="Fabio's Stats" width="100%"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" alt="Fabio's Stats" width="100%" height="215"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="100%"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="100%" height="215"/>
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabiobanyu&theme=radical&utcOffset=7" alt="Productive Time" width="100%"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabiobanyu&theme=radical&utcOffset=7" alt="Productive Time" width="100%" height="215"/>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabiobanyu&theme=radical" alt="Profile Details" width="100%"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabiobanyu&theme=radical" alt="Profile Details" width="100%" height="215"/>
       </td>
     </tr>
   </table>
@@ -90,6 +90,7 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabiobanyu&bg_color=141321&color=fe428e&line=f71d56&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
+
 ---
 
 ### 🌐 Let's Connect!
@@ -97,19 +98,23 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
 Tertarik untuk berkolaborasi dalam proyek data, atau sekadar berdiskusi tentang teknologi, data, dan AI? Hubungi saya!
 
 <div align="center">
-  <a href="mailto:fabiocyto74@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fabiocyto74@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/fabiobanyu" target="_blank">
+  
+  <a href="https://www.instagram.com/biyokcb/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  
   <a href="https://wa.me/6285769715375" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/fabio-banyu-cyto-1318782ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
 ---
 
 <div align="center">
