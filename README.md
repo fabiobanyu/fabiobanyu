@@ -62,31 +62,18 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Fabio's Stats" width="100%"/>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=fabiobanyu&theme=radical&hide_border=true" alt="Fabio's Streak" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="100%"/>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=fabiobanyu&theme=radical&no-bg=true&column=3&margin-w=15" alt="Trophies" width="100%"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Fabio's Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</div>
 
-  <br>
+<br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabiobanyu&bg_color=141321&color=fe428e&line=f71d56&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabiobanyu&bg_color=141321&color=F7C41D&line=fe428e&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
