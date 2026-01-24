@@ -80,8 +80,8 @@ Sebagai calon Data Scientist, berikut adalah senjata dan peralatan yang saya gun
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fabiobanyu&theme=radical&utcOffset=7" alt="Productive Time" width="100%"/>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/fabiobanyu/DataVers-Competition-Lightgbm-Model">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiobanyu&repo=DataVers-Competition-Lightgbm-Model&theme=radical&hide_border=true" alt="Pinned Repo" width="100%"/>
+        <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+          <img src="https://streak-stats.demolab.com?user=fabiobanyu&theme=radical&hide_border=true" alt="Streak Stats" width="100%"/>
         </a>
       </td>
     </tr>
