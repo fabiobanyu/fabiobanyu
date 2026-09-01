@@ -80,13 +80,13 @@ Besides model development, I am also interested in <b>Web Development and AI Int
 </ul>
 </td>
 
-<!-- ==================== GITHUB ANALYTICS (BEBAS ERROR SERVER) ==================== -->
+<!-- ==================== GITHUB ANALYTICS (100% BEBAS ERROR 402) ==================== -->
 <td width="45%" valign="top" align="center">
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <br>
 
-<!-- 1. GITHUB STREAK STATS (SUDAH TERBUKTI BERHASIL & BAGUS) -->
+<!-- 1. GITHUB STREAK STATS (HEROKU - SUDAH TERBUKTI STABIL & AKTIF) -->
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=fabiobanyu&theme=radical&hide_border=true&background=0D1117&ring=FF3B9D&fire=FFD83D&currStreakLabel=FFD83D"
 width="100%"
@@ -95,12 +95,16 @@ alt="GitHub Streak"
 
 <br><br>
 
-<!-- 2. GITHUB ACTIVITY GRAPH (GRAFIK GELOMBANG KONTRIBUSI REAL-TIME DENGAN WARNA SENADA) -->
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=fabiobanyu&bg_color=0D1117&color=FF3B9D&line=00D2FF&point=FFD83D&area=true&hide_border=true"
-width="100%"
-alt="GitHub Activity Graph"
-/>
+<!-- 2. REPOSITORY METRICS (SHIELDS.IO - ZERO DOWNTIME & ZERO 402 ERROR) -->
+<div align="center">
+<img src="https://img.shields.io/badge/Total_Contributions-329-00D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+<br><br>
+<img src="https://img.shields.io/badge/Public_Repositories-12-2EA043?style=for-the-badge&logo=gitkraken&logoColor=white&labelColor=0D1117" />
+<br><br>
+<img src="https://img.shields.io/badge/Total_Stars_Earned-8_⭐-FFD83D?style=for-the-badge&logoColor=black&labelColor=0D1117" />
+<br><br>
+<img src="https://img.shields.io/badge/Community_Followers-24_👥-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+</div>
 
 </td>
 </tr>
