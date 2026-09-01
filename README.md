@@ -43,20 +43,9 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="justify">
-I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b> with a strong interest in <b>Artificial Intelligence, Machine Learning, and Deep Learning</b>.
+I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b> with a strong focus on <b>Artificial Intelligence, Machine Learning, and Deep Learning</b>, particularly in processing unstructured data across <b>Computer Vision and Audio Intelligence</b>. Driven by a deep curiosity to understand and experiment with neural network architectures, I continuously bridge the gap between model development and practical implementation by integrating intelligent models with modern <b>Web Development and REST APIs</b> to build scalable, end-to-end solutions.
 </p>
 
-<p align="justify">
-My main interests are in working with <b>unstructured data</b>, particularly images and audio. I enjoy understanding how machine learning models work, experimenting with different approaches, and applying them to practical problems.
-</p>
-
-<p align="justify">
-My current focus is on <b>Computer Vision, Deep Learning, Audio Intelligence, and Speech Processing</b>. I am particularly interested in exploring neural network architectures and applying them to real-world problems.
-</p>
-
-<p align="justify">
-Besides model development, I am also interested in <b>Web Development and AI Integration</b>. I enjoy connecting machine learning models with APIs and web interfaces to turn AI experiments into practical applications.
-</p>
 
 <br>
 
