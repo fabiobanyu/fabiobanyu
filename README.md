@@ -38,7 +38,7 @@
 <table align="center" width="100%" border="0" cellpadding="12" cellspacing="0">
 <tr>
 
-<!-- ==================== ABOUT ME (1 PARAGRAF PADAT) ==================== -->
+<!-- ==================== ABOUT ME (1 PARAGRAF) ==================== -->
 <td width="55%" valign="top">
 <h2 align="center">👋 About Me</h2>
 
@@ -68,7 +68,7 @@ I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITER
 </ul>
 </td>
 
-<!-- ==================== GITHUB ANALYTICS (TABEL 2x2 SIMETRIS) ==================== -->
+<!-- ==================== GITHUB ANALYTICS (TABEL 2x2) ==================== -->
 <td width="45%" valign="top" align="center">
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -83,22 +83,22 @@ alt="GitHub Streak"
 
 <br><br>
 
-<!-- METRIK TABEL 2x2 RATA KIRI-KANAN -->
+<!-- TABEL METRIK 2x2 SEJAJAR KIRI & KANAN -->
 <table width="100%" border="0" cellpadding="4" cellspacing="0">
-<tr>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/Contrib.-329-00D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-</td>
-<td width="50%" align="center">
+<tr align="center">
+<td width="50%">
 <img src="https://img.shields.io/badge/Repos-12-2EA043?style=for-the-badge&logo=gitkraken&logoColor=white&labelColor=0D1117" />
 </td>
-</tr>
-<tr>
-<td width="50%" align="center">
+<td width="50%">
 <img src="https://img.shields.io/badge/Stars-8_⭐-FFD83D?style=for-the-badge&logoColor=black&labelColor=0D1117" />
 </td>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/Fans-24_👥-58A6FF?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+</tr>
+<tr align="center">
+<td width="50%">
+<img src="https://img.shields.io/badge/Followers-24_👥-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+</td>
+<td width="50%">
+<img src="https://img.shields.io/badge/Primary-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
 </td>
 </tr>
 </table>
