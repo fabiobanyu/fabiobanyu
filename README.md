@@ -14,25 +14,28 @@
 <table width="100%" border="0" style="border-collapse: collapse;">
   <tr>
     <td width="65%" valign="top">
-      <h2>👋 About Me</h2>
-      <p>I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b>. Driven by a deep fascination for data, I specialize in transforming complex, unstructured information into meaningful stories and robust predictive models.</p>
-      <p><strong>Core Focus Areas:</strong></p>
-      <ul>
-        <li>🤖 <b>Computer Vision & Deep Learning</b> (PyTorch, CNNs)</li>
-        <li>📈 <b>Time-Series Forecasting & Stochastic Modeling</b></li>
-        <li>🕸️ <b>Knowledge Graphs & Graph Databases</b> (Neo4j)</li>
-        <li>💻 <b>End-to-End Machine Learning Deployment</b> (Flask)</li>
-      </ul>
-      <p><i>"Exploring the Grand Line of Technology with passion and perseverance." ⛵</i></p>
-    </td>
-    <td width="35%" valign="top" align="center">
-      <h2>📫 Let's Connect</h2>
-      <p>Open for collaborations, discussions, or just a cup of coffee!</p>
-      <a href="mailto:fabiocyto74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130" /></a><br><br>
-      <a href="https://www.linkedin.com/in/fabio-banyu-cyto-1318782ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130"/></a><br><br>
-      <a href="https://wa.me/6285769715375"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="130"/></a><br><br>
-      <a href="https://www.instagram.com/biyokcb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="130"/></a>
-    </td>
+  <h2 align="center">👋 About Me</h2>
+  <br>
+  <p align="justify">
+    I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b>. Driven by an insatiable curiosity for data, I specialize in transforming complex, unstructured information into actionable insights and robust predictive models. I thrive at the intersection of statistics and software engineering, solving real-world problems through advanced analytics.
+  </p>
+  
+  <br>
+  <p><strong>🎯 Core Focus Areas:</strong></p>
+  
+  <blockquote>
+    🤖 <b>Computer Vision & Deep Learning</b> <i>(PyTorch, CNNs)</i><br>
+    📈 <b>Time-Series & Stochastic Modeling</b> <i>(Markov Chains, ARIMA)</i><br>
+    🕸️ <b>Knowledge Graphs</b> <i>(Neo4j, Graph Analytics)</i><br>
+    💻 <b>End-to-End ML Deployment</b> <i>(Flask, API Integration)</i>
+  </blockquote>
+  
+  <br>
+  <p align="center">
+    <i>"Exploring the Grand Line of Technology with passion and perseverance."</i> ⛵
+  </p>
+</td>
+
   </tr>
 </table>
 
