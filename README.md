@@ -1,89 +1,71 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fabio%20Banyu%20Cyto&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Undergrad%20%7C%20AI%20and%20Machine%20Learning%20Enthusiast&descFontSize=16&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fabio%20Banyu%20Cyto&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Undergrad%20%7C%20AI%20and%20Machine%20Learning%20Enthusiast&descFontSize=16&descAlignY=55" width="100%" />
+</div>
+
+<div align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Transforming+Raw+Data+into+Actionable+Insights+💡;Exploring+Deep+Learning+and+Computer+Vision+👁️;Building+Robust+Stochastic+and+Time-Series+Models+📈;On+a+Journey+to+be+the+King+of+Data+Science!+⚡" alt="Typing Animation" />
+</a>
 </div>
 
 <br>
 
-<!-- TROPHY FLEXING -->
+<!-- SOCIAL LINKS (Top-Down Flow) -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fabiobanyu&theme=dracula&no-frame=true&no-bg=true&margin-w=15&row=1&column=5" alt="Trophies" />
-  </a>
+<a href="https://www.linkedin.com/in/fabio-banyu-cyto-1318782ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:fabiocyto74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/6285769715375"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.instagram.com/biyokcb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Transforming+Raw+Data+into+Actionable+Insights+💡;Exploring+Deep+Learning+and+Computer+Vision+👁️;Building+Robust+Stochastic+and+Time-Series+Models+📈;On+a+Journey+to+be+the+King+of+Data+Science!+⚡" alt="Typing Animation" />
-  </a>
-</div>
+<br><br>
 
-<br>
-
-<!-- ABOUT ME & CONTACT GRID -->
-<table align="center" width="100%" border="0" style="border-collapse: collapse;">
-<tr>
-<td width="65%" valign="top">
+<!-- ABOUT ME -->
 <h2 align="center">👋 About Me</h2>
 <p align="justify">I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b>. Driven by an insatiable curiosity for data, I specialize in transforming complex, unstructured information into actionable insights and robust predictive models. I thrive at the intersection of statistics and software engineering, solving real-world problems through advanced analytics.</p>
-<br>
+<table align="center" width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
 <p><strong>🔥 Core Focus Areas:</strong></p>
 <ul>
-<li>🤖 <b>Computer Vision & Deep Learning</b> <i>(PyTorch, CNNs)</i></li>
-<li>📈 <b>Time-Series Forecasting & Stochastic Modeling</b></li>
-<li>🕸️ <b>Knowledge Graphs & Graph Databases</b> <i>(Neo4j)</i></li>
-<li>💻 <b>End-to-End Machine Learning Deployment</b> <i>(Flask, API)</i></li>
+<li>🤖 <b>Computer Vision & Deep Learning</b></li>
+<li>📈 <b>Time-Series & Stochastic Modeling</b></li>
 </ul>
-<br>
-<p align="center"><i>"Exploring the Grand Line of Technology with passion and perseverance." ⛵</i></p>
 </td>
-<td width="35%" valign="top" align="center">
-<h2 align="center">📫 Let's Connect</h2>
-<br>
-<a href="mailto:fabiocyto74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130" /></a><br><br>
-<a href="https://www.linkedin.com/in/fabio-banyu-cyto-1318782ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130"/></a><br><br>
-<a href="https://wa.me/6285769715375"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="130"/></a><br><br>
-<a href="https://www.instagram.com/biyokcb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="130"/></a>
+<td width="50%" valign="top">
+<p><strong><br></strong></p>
+<ul>
+<li>🕸️ <b>Knowledge Graphs & Databases</b></li>
+<li>💻 <b>End-to-End ML Deployment</b></li>
+</ul>
 </td>
 </tr>
 </table>
 
 <br>
 
-<!-- NEON DIVIDER -->
+<!-- GITHUB STATS DASHBOARD -->
+<h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&width=100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
-<br>
+<br><br>
 
-<!-- ARSENAL & TECH STACK (CLEAN NO BORDER) -->
+<!-- TECH STACK (Single Line Layout) -->
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
-<br>
 <div align="center">
-  <p><b>💻 Languages & Core</b></p>
-  <img src="https://skillicons.dev/icons?i=py,r,js,html,css" />
-  <br><br><br>
-  
-  <p><b>🧠 ML & Data Science</b></p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
-  <br><br><br>
-  
-  <p><b>⚙️ Tools & Deployment</b></p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,flask,linux,postman" />
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,r,js,html,css,pytorch,sklearn,tensorflow,git,vscode,flask,linux,postman&perline=13" />
+</a>
 </div>
 
-<br>
+<br><br>
 
-<!-- NEON DIVIDER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&width=100%" />
-</div>
-
-<br>
-
-<!-- FEATURED PROJECTS -->
+<!-- FEATURED PROJECTS GRID -->
 <h2 align="center">🚀 Featured Data Projects</h2>
-<table align="center" width="100%" border="0">
+<table align="center" width="100%" border="0" style="border-collapse: collapse;">
 <tr>
 <td width="50%" valign="top" align="center">
 <h3 align="center">🍃 Hoya Leaf Disease Detection</h3>
