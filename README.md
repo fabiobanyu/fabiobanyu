@@ -19,7 +19,7 @@
 
 <br><br>
 
-<!-- ABOUT ME & GITHUB ANALYTICS -->
+<!-- ABOUT ME & GITHUB ANALYTICS FASTFETCH HUD -->
 <table align="center" width="100%" border="0" style="border-collapse: collapse;">
 <tr>
 <td width="52%" valign="top">
@@ -35,27 +35,22 @@
 </ul>
 </td>
 
-<!-- GITHUB ANALYTICS DENGAN TIPOGRAFI & PEMISAH ELEGAN -->
+<!-- FASTFETCH TERMINAL HUD CARD -->
 <td width="48%" valign="top">
 
 <pre>
- 📊 <b>GITHUB ANALYTICS</b>
- ───────────────────────────────────────────────
-       <b>329</b>               🔥 <b>1</b>              <b>6</b>
-      Total            Current          Longest
-     Contrib.          Streak           Streak
-
-
- 💻 <b>REPOSITORY STATS</b>
- ───────────────────────────────────────────────
-       <b>12</b>               <b>8</b> ⭐             <b>24</b> 👥
-      Repos             Stars          Followers
-
-
- 🧠 <b>DEVELOPMENT FOCUS</b>
- ───────────────────────────────────────────────
-     <b>Python</b>            <b>PyTorch</b>           <b>React</b>
-     Primary           AI / ML          Frontend
+<b>fabio@itera-ai</b>:<b>~</b>$ fastfetch --data-stats
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 📊 <b>CONTRIBUTIONS</b>  │ <b>329</b> Total • 🔥 <b>1</b> Streak • ⚡ <b>6</b> Max
+ 📁 <b>REPOSITORIES</b>   │ <b>12</b> Repos  • ⭐ <b>8</b> Stars  • 👥 <b>24</b> Fans
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 🧠 <b>DEVELOPMENT FOCUS & STACK</b>
+ ├─ 🐍 <b>Python</b>      ████████████████████ <b>Primary</b>
+ ├─ 🔥 <b>PyTorch</b>     ████████████████░░░░ <b>AI / ML</b>
+ ├─ ⚛️ <b>React.js</b>    ████████████░░░░░░░░ <b>Frontend</b>
+ └─ 🌐 <b>Flask/APIs</b>  ██████████████░░░░░░ <b>Deployment</b>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 🎯 <b>STATUS</b>        │ Building King of Data Science ⚡
 </pre>
 
 </td>
