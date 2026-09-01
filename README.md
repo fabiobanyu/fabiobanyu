@@ -25,26 +25,30 @@
 <tr>
 <td width="55%" valign="top">
 <h2 align="center">👋 About Me</h2>
-<p align="justify">I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b>. Driven by an insatiable curiosity for data, I specialize in transforming complex, unstructured information into actionable insights and robust predictive models. I thrive at the intersection of statistics and software engineering, solving real-world problems through advanced analytics.</p>
+<p align="justify">I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b> with a profound passion for the computational side of Artificial Intelligence. Unlike traditional data scientists who focus heavily on pure statistics and forecasting, my core strength lies in <b>Machine Learning, Deep Learning architectures, and scalable computation</b>. I thrive on building intelligent systems that can process complex, unstructured data like images and sound waves.</p>
+
+<p align="justify">Beyond engineering robust AI backends, I am deeply interested in <b>Frontend Development</b> and <b>End-to-End Integration</b>. I believe that powerful models are only as good as the interfaces that deliver them. My ultimate goal is to seamlessly bridge complex neural networks with intuitive, interactive user experiences to solve real-world problems.</p>
+
 <br>
 <p><strong>🔥 Core Focus Areas:</strong></p>
 <ul>
 <li>🤖 <b>Computer Vision & Deep Learning</b> <i>(PyTorch, CNNs)</i></li>
-<li>📈 <b>Time-Series Forecasting & Stochastic Modeling</b></li>
+<li>🎵 <b>Audio Intelligence & Processing</b> <i>(Speech & Audio Analytics)</i></li>
 <li>🕸️ <b>Knowledge Graphs & Graph Databases</b> <i>(Neo4j)</i></li>
-<li>💻 <b>End-to-End Machine Learning Deployment</b> <i>(Flask, API)</i></li>
+<li>💻 <b>End-to-End ML Deployment & Frontend</b> <i>(Flask, APIs, UI/UX)</i></li>
 </ul>
 </td>
 <td width="45%" valign="top" align="center">
 <h2 align="center">📊 GitHub Analytics</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%" />
+<!-- Server Heroku Streak Stats yang anti-error -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fabiobanyu&theme=radical&hide_border=true&background=0D1117" width="100%" />
 </td>
 </tr>
 </table>
 
 <br>
 
-<!-- TECH STACK (Single Line) -->
+<!-- TECH STACK (Single Line Layout) -->
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 <div align="center">
 <a href="https://skillicons.dev">
