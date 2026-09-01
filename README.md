@@ -35,27 +35,27 @@
 </ul>
 </td>
 
-<!-- GITHUB ANALYTICS BERSIH & SEJAJAR -->
+<!-- GITHUB ANALYTICS DENGAN TIPOGRAFI & PEMISAH ELEGAN -->
 <td width="48%" valign="top">
 
 <pre>
- 📊 <b>GitHub Analytics</b>
-
-     <b>329</b>               🔥 <b>1</b>              <b>6</b>
-    Total            Current           Longest
-    Contributions    Streak            Streak
-
-
- 💻 <b>Repository Stats</b>
-
-     <b>12</b>               <b>8</b> ⭐              <b>24</b> 👥
-    Repositories     Total Stars       Followers
+ 📊 <b>GITHUB ANALYTICS</b>
+ ───────────────────────────────────────────────
+       <b>329</b>               🔥 <b>1</b>              <b>6</b>
+      Total            Current          Longest
+     Contrib.          Streak           Streak
 
 
- 🧠 <b>Development Focus</b>
+ 💻 <b>REPOSITORY STATS</b>
+ ───────────────────────────────────────────────
+       <b>12</b>               <b>8</b> ⭐             <b>24</b> 👥
+      Repos             Stars          Followers
 
-    <b>Python</b>           <b>PyTorch</b>           <b>React</b>
-    Primary          AI / ML           Frontend
+
+ 🧠 <b>DEVELOPMENT FOCUS</b>
+ ───────────────────────────────────────────────
+     <b>Python</b>            <b>PyTorch</b>           <b>React</b>
+     Primary           AI / ML          Frontend
 </pre>
 
 </td>
