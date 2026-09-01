@@ -19,7 +19,7 @@
 
 <br><br>
 
-<!-- ABOUT ME & GITHUB ANALYTICS DASHBOARD -->
+<!-- ABOUT ME & GITHUB ANALYTICS -->
 <table align="center" width="100%" border="0" style="border-collapse: collapse;">
 <tr>
 <td width="52%" valign="top">
@@ -35,26 +35,29 @@
 </ul>
 </td>
 
-<!-- GITHUB ANALYTICS HUD CARD (PRESISI & RATA) -->
-<td width="48%" valign="top" align="center">
+<!-- GITHUB ANALYTICS BERSIH & SEJAJAR -->
+<td width="48%" valign="top">
+
 <pre>
-┌────────────────────────────────────────────────────────┐
-│ 📊 <b>GitHub Analytics</b>                                   │
-│                                                        │
-│     <b>329</b>                🔥 <b>1</b>               <b>6</b>            │
-│  Total Contrib.      Current Streak     Longest Streak │
-│                                                        │
-│ 💻 <b>Repository Stats</b>                                    │
-│                                                        │
-│     <b>12</b>                 <b>8</b> ⭐              <b>24</b> 👥         │
-│  Repositories          Total Stars       Followers     │
-│                                                        │
-│ 🧠 <b>Development Focus</b>                                   │
-│                                                        │
-│   <b>Python</b>               <b>PyTorch</b>            <b>React</b>        │
-│   Primary              AI / ML           Frontend      │
-└────────────────────────────────────────────────────────┘
+ 📊 <b>GitHub Analytics</b>
+
+     <b>329</b>               🔥 <b>1</b>              <b>6</b>
+    Total            Current           Longest
+    Contributions    Streak            Streak
+
+
+ 💻 <b>Repository Stats</b>
+
+     <b>12</b>               <b>8</b> ⭐              <b>24</b> 👥
+    Repositories     Total Stars       Followers
+
+
+ 🧠 <b>Development Focus</b>
+
+    <b>Python</b>           <b>PyTorch</b>           <b>React</b>
+    Primary          AI / ML           Frontend
 </pre>
+
 </td>
 </tr>
 </table>
