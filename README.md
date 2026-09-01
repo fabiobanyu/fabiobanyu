@@ -29,10 +29,10 @@
 <br>
 <p><strong>🔥 Core Focus Areas:</strong></p>
 <ul>
-<li>🤖 <b>Computer Vision & Deep Learning</b> <i>(PyTorch, CNNs)</i></li>
-<li>📈 <b>Time-Series Forecasting & Stochastic Modeling</b></li>
-<li>🕸️ <b>Knowledge Graphs & Graph Databases</b> <i>(Neo4j)</i></li>
-<li>💻 <b>End-to-End Machine Learning Deployment</b> <i>(Flask, API)</i></li>
+<li>🤖 <b>Computer Vision & Deep Learning</b> <i>(PyTorch, CNNs, LSTM)</i></li>
+<li>🎵 <b>Audio Intelligence & Speech Processing</b></li>
+<li>🌐 <b>Frontend Web Development</b> <i>(HTML, CSS, JavaScript, React.js, Tailwind CSS)</i></li>
+<li>💻 <b>Machine Learning Application & Deployment</b> <i>(Flask, REST API)</i></li>
 </ul>
 </td>
 <td width="45%" valign="top" align="center">
