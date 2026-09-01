@@ -1,11 +1,20 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fabio%20Banyu%20Cyto&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Undergrad%20%7C%20AI%20and%20Machine%20Learning%20Enthusiast&descFontSize=16&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fabio%20Banyu%20Cyto&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Undergrad%20%7C%20AI%20and%20Machine%20Learning%20Enthusiast&descFontSize=16&descAlignY=55" width="100%" />
+</div>
+
+<br>
+
+<!-- TROPHY FLEXING -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fabiobanyu&theme=dracula&no-frame=true&no-bg=true&margin-w=15&row=1&column=5" alt="Trophies" />
+  </a>
 </div>
 
 <div align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Transforming+Raw+Data+into+Actionable+Insights+💡;Exploring+Deep+Learning+and+Computer+Vision+👁️;Building+Robust+Stochastic+and+Time-Series+Models+📈;On+a+Journey+to+be+the+King+of+Data+Science!+⚡" alt="Typing Animation" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Transforming+Raw+Data+into+Actionable+Insights+💡;Exploring+Deep+Learning+and+Computer+Vision+👁️;Building+Robust+Stochastic+and+Time-Series+Models+📈;On+a+Journey+to+be+the+King+of+Data+Science!+⚡" alt="Typing Animation" />
+  </a>
 </div>
 
 <br>
@@ -17,12 +26,12 @@
 <h2 align="center">👋 About Me</h2>
 <p align="justify">I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b>. Driven by an insatiable curiosity for data, I specialize in transforming complex, unstructured information into actionable insights and robust predictive models. I thrive at the intersection of statistics and software engineering, solving real-world problems through advanced analytics.</p>
 <br>
-<p><strong>Core Focus Areas:</strong></p>
+<p><strong>🔥 Core Focus Areas:</strong></p>
 <ul>
-<li>🤖 <b>Computer Vision & Deep Learning</b> (PyTorch, CNNs)</li>
+<li>🤖 <b>Computer Vision & Deep Learning</b> <i>(PyTorch, CNNs)</i></li>
 <li>📈 <b>Time-Series Forecasting & Stochastic Modeling</b></li>
-<li>🕸️ <b>Knowledge Graphs & Graph Databases</b> (Neo4j)</li>
-<li>💻 <b>End-to-End Machine Learning Deployment</b> (Flask)</li>
+<li>🕸️ <b>Knowledge Graphs & Graph Databases</b> <i>(Neo4j)</i></li>
+<li>💻 <b>End-to-End Machine Learning Deployment</b> <i>(Flask, API)</i></li>
 </ul>
 <br>
 <p align="center"><i>"Exploring the Grand Line of Technology with passion and perseverance." ⛵</i></p>
@@ -40,33 +49,35 @@
 
 <br>
 
-<!-- ARSENAL & TECH STACK -->
+<!-- NEON DIVIDER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&width=100%" />
+</div>
+
+<br>
+
+<!-- ARSENAL & TECH STACK (CLEAN NO BORDER) -->
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
-<table align="center" width="100%" border="1" bordercolor="#30363d" style="border-collapse: collapse;">
-<tr>
-<td width="33%" align="center" valign="top">
-<h3 align="center">💻 Languages</h3>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=py,r,js,html,css" />
-</div>
 <br>
-</td>
-<td width="33%" align="center" valign="top">
-<h3 align="center">🧠 ML & Data Science</h3>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
+  <p><b>💻 Languages & Core</b></p>
+  <img src="https://skillicons.dev/icons?i=py,r,js,html,css" />
+  <br><br><br>
+  
+  <p><b>🧠 ML & Data Science</b></p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
+  <br><br><br>
+  
+  <p><b>⚙️ Tools & Deployment</b></p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,flask,linux,postman" />
 </div>
+
 <br>
-</td>
-<td width="33%" align="center" valign="top">
-<h3 align="center">⚙️ Tools & Deployment</h3>
+
+<!-- NEON DIVIDER -->
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,vscode,flask,linux,postman" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&width=100%" />
 </div>
-<br>
-</td>
-</tr>
-</table>
 
 <br>
 
