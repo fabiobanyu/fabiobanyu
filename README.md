@@ -221,10 +221,11 @@ An interactive <b>Data Visualization</b> project focused on presenting datasets 
 <code>Data Visualization</code> <code>Dashboard</code> <code>Data Analysis</code>
 </p>
 
-<a href="#">
+<a href="https://github.com/fabiobanyu?tab=repositories">
 <img src="https://img.shields.io/badge/View_Project-150E28?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
+
 
 </tr>
 </table>
