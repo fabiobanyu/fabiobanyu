@@ -39,20 +39,20 @@
 </ul>
 </td>
 <td width="45%" valign="top" align="center">
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">🏆 GitHub Trophies</h2>
+<br>
 
-<!-- 1. GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fabiobanyu&theme=radical&hide_border=true&background=0D1117" width="100%" />
-<br><br>
+<!-- Trophies yang stabil dan super keren -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=fabiobanyu&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=2" width="100%" />
+</a>
 
-<!-- 2. Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="100%" />
-<br><br>
+<br><br><br>
 
-<!-- 3. Real-time Profile Views Counter -->
+<!-- Real-time Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=fabiobanyu&label=Profile%20Views&color=e10098&style=for-the-badge" />
-
 </td>
+
 
 </tr>
 </table>
