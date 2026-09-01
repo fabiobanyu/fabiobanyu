@@ -10,7 +10,7 @@
 
 <br>
 
-<!-- SOCIAL LINKS (Top-Down Flow) -->
+<!-- SOCIAL LINKS DI ATAS -->
 <div align="center">
 <a href="https://www.linkedin.com/in/fabio-banyu-cyto-1318782ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:fabiocyto74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -20,40 +20,31 @@
 
 <br><br>
 
-<!-- ABOUT ME -->
+<!-- ABOUT ME & GITHUB STATS GRID -->
+<table align="center" width="100%" border="0" style="border-collapse: collapse;">
+<tr>
+<td width="55%" valign="top">
 <h2 align="center">👋 About Me</h2>
 <p align="justify">I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b>. Driven by an insatiable curiosity for data, I specialize in transforming complex, unstructured information into actionable insights and robust predictive models. I thrive at the intersection of statistics and software engineering, solving real-world problems through advanced analytics.</p>
-<table align="center" width="100%" border="0">
-<tr>
-<td width="50%" valign="top">
+<br>
 <p><strong>🔥 Core Focus Areas:</strong></p>
 <ul>
-<li>🤖 <b>Computer Vision & Deep Learning</b></li>
-<li>📈 <b>Time-Series & Stochastic Modeling</b></li>
+<li>🤖 <b>Computer Vision & Deep Learning</b> <i>(PyTorch, CNNs)</i></li>
+<li>📈 <b>Time-Series Forecasting & Stochastic Modeling</b></li>
+<li>🕸️ <b>Knowledge Graphs & Graph Databases</b> <i>(Neo4j)</i></li>
+<li>💻 <b>End-to-End Machine Learning Deployment</b> <i>(Flask, API)</i></li>
 </ul>
 </td>
-<td width="50%" valign="top">
-<p><strong><br></strong></p>
-<ul>
-<li>🕸️ <b>Knowledge Graphs & Databases</b></li>
-<li>💻 <b>End-to-End ML Deployment</b></li>
-</ul>
+<td width="45%" valign="top" align="center">
+<h2 align="center">📊 GitHub Analytics</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%" />
 </td>
 </tr>
 </table>
 
 <br>
 
-<!-- GITHUB STATS DASHBOARD -->
-<h2 align="center">📊 GitHub Analytics</h2>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-</div>
-
-<br><br>
-
-<!-- TECH STACK (Single Line Layout) -->
+<!-- TECH STACK (Single Line) -->
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 <div align="center">
 <a href="https://skillicons.dev">
