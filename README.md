@@ -44,24 +44,24 @@
   <tr>
     <td width="33%" align="center" valign="top">
       <h3 align="center">💻 Languages</h3>
-      <br>
-      <p align="center">
+      <div align="center">
         <img src="https://skillicons.dev/icons?i=py,r,js,html,css" />
-      </p>
+      </div>
+      <br>
     </td>
     <td width="33%" align="center" valign="top">
       <h3 align="center">🧠 ML & Data Science</h3>
-      <br>
-      <p align="center">
+      <div align="center">
         <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
-      </p>
+      </div>
+      <br>
     </td>
     <td width="33%" align="center" valign="top">
       <h3 align="center">⚙️ Tools & Deployment</h3>
-      <br>
-      <p align="center">
+      <div align="center">
         <img src="https://skillicons.dev/icons?i=git,vscode,flask,linux,postman" />
-      </p>
+      </div>
+      <br>
     </td>
   </tr>
 </table>
