@@ -63,49 +63,43 @@ Besides model development, I am also interested in <b>Web Development and AI Int
 <p><b>🔥 Core Focus Areas:</b></p>
 <ul>
 <li>
-🤖 <b>Computer Vision & Deep Learning</b> <i>(PyTorch, CNNs, LSTM)</i>
+🤖 <b>Computer Vision & Deep Learning</b>
+<i>(PyTorch, CNNs, LSTM)</i>
 </li>
 <li>
 🎵 <b>Audio Intelligence & Speech Processing</b>
 </li>
 <li>
-🌐 <b>Frontend Web Development</b> <i>(HTML, CSS, JavaScript, React.js, Tailwind CSS)</i>
+🌐 <b>Frontend Web Development</b>
+<i>(HTML, CSS, JavaScript, React.js, Tailwind CSS)</i>
 </li>
 <li>
-💻 <b>Machine Learning Application & Deployment</b> <i>(Flask, REST API)</i>
+💻 <b>Machine Learning Application & Deployment</b>
+<i>(Flask, REST API)</i>
 </li>
 </ul>
 </td>
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
+<!-- ==================== GITHUB ANALYTICS (BEBAS ERROR SERVER) ==================== -->
 <td width="45%" valign="top" align="center">
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <br>
 
-<!-- TOP LANGUAGES -->
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B9D&text_color=F0F6FC&langs_count=6"
-width="100%"
-alt="Top Languages"
-/>
-
-<br><br>
-
-<!-- GITHUB STATS (SUDAH DIPERBAIKI DARI ERROR FETCHING) -->
-<img
-src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3B9D&icon_color=FFD83D&text_color=F0F6FC"
-width="100%"
-alt="GitHub Stats"
-/>
-
-<br><br>
-
-<!-- GITHUB STREAK -->
+<!-- 1. GITHUB STREAK STATS (SUDAH TERBUKTI BERHASIL & BAGUS) -->
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=fabiobanyu&theme=radical&hide_border=true&background=0D1117&ring=FF3B9D&fire=FFD83D&currStreakLabel=FFD83D"
 width="100%"
 alt="GitHub Streak"
+/>
+
+<br><br>
+
+<!-- 2. GITHUB ACTIVITY GRAPH (GRAFIK GELOMBANG KONTRIBUSI REAL-TIME DENGAN WARNA SENADA) -->
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=fabiobanyu&bg_color=0D1117&color=FF3B9D&line=00D2FF&point=FFD83D&area=true&hide_border=true"
+width="100%"
+alt="GitHub Activity Graph"
 />
 
 </td>
