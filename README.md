@@ -38,14 +38,13 @@
 <table align="center" width="100%" border="0" cellpadding="12" cellspacing="0">
 <tr>
 
-<!-- ==================== ABOUT ME ==================== -->
+<!-- ==================== ABOUT ME (1 PARAGRAF PADAT) ==================== -->
 <td width="55%" valign="top">
 <h2 align="center">👋 About Me</h2>
 
 <p align="justify">
 I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b> with a strong focus on <b>Artificial Intelligence, Machine Learning, and Deep Learning</b>, particularly in processing unstructured data across <b>Computer Vision and Audio Intelligence</b>. Driven by a deep curiosity to understand and experiment with neural network architectures, I continuously bridge the gap between model development and practical implementation by integrating intelligent models with modern <b>Web Development and REST APIs</b> to build scalable, end-to-end solutions.
 </p>
-
 
 <br>
 
@@ -69,13 +68,13 @@ I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITER
 </ul>
 </td>
 
-<!-- ==================== GITHUB ANALYTICS (100% BEBAS ERROR 402) ==================== -->
+<!-- ==================== GITHUB ANALYTICS (TABEL 2x2 SIMETRIS) ==================== -->
 <td width="45%" valign="top" align="center">
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <br>
 
-<!-- 1. GITHUB STREAK STATS (HEROKU - SUDAH TERBUKTI STABIL & AKTIF) -->
+<!-- GITHUB STREAK STATS -->
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=fabiobanyu&theme=radical&hide_border=true&background=0D1117&ring=FF3B9D&fire=FFD83D&currStreakLabel=FFD83D"
 width="100%"
@@ -84,16 +83,25 @@ alt="GitHub Streak"
 
 <br><br>
 
-<!-- 2. REPOSITORY METRICS (SHIELDS.IO - ZERO DOWNTIME & ZERO 402 ERROR) -->
-<div align="center">
-<img src="https://img.shields.io/badge/Total_Contributions-329-00D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-<br><br>
-<img src="https://img.shields.io/badge/Public_Repositories-12-2EA043?style=for-the-badge&logo=gitkraken&logoColor=white&labelColor=0D1117" />
-<br><br>
-<img src="https://img.shields.io/badge/Total_Stars_Earned-8_⭐-FFD83D?style=for-the-badge&logoColor=black&labelColor=0D1117" />
-<br><br>
-<img src="https://img.shields.io/badge/Community_Followers-24_👥-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-</div>
+<!-- METRIK TABEL 2x2 RATA KIRI-KANAN -->
+<table width="100%" border="0" cellpadding="4" cellspacing="0">
+<tr>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/Contrib.-329-00D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+</td>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/Repos-12-2EA043?style=for-the-badge&logo=gitkraken&logoColor=white&labelColor=0D1117" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/Stars-8_⭐-FFD83D?style=for-the-badge&logoColor=black&labelColor=0D1117" />
+</td>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/Fans-24_👥-58A6FF?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
