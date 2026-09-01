@@ -11,31 +11,29 @@
 <br>
 
 <!-- ABOUT ME & CONTACT GRID -->
-<table width="100%" border="0" style="border-collapse: collapse;">
+<table align="center" width="100%" border="0" style="border-collapse: collapse;">
   <tr>
     <td width="65%" valign="top">
-  <h2 align="center">👋 About Me</h2>
-  <br>
-  <p align="justify">
-    I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b>. Driven by an insatiable curiosity for data, I specialize in transforming complex, unstructured information into actionable insights and robust predictive models. I thrive at the intersection of statistics and software engineering, solving real-world problems through advanced analytics.
-  </p>
-  
-  <br>
-  <p><strong>🎯 Core Focus Areas:</strong></p>
-  
-  <blockquote>
-    🤖 <b>Computer Vision & Deep Learning</b> <i>(PyTorch, CNNs)</i><br>
-    📈 <b>Time-Series & Stochastic Modeling</b> <i>(Markov Chains, ARIMA)</i><br>
-    🕸️ <b>Knowledge Graphs</b> <i>(Neo4j, Graph Analytics)</i><br>
-    💻 <b>End-to-End ML Deployment</b> <i>(Flask, API Integration)</i>
-  </blockquote>
-  
-  <br>
-  <p align="center">
-    <i>"Exploring the Grand Line of Technology with passion and perseverance."</i> ⛵
-  </p>
-</td>
-
+      <h2 align="center">👋 About Me</h2>
+      <p align="justify">I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b>. Driven by an insatiable curiosity for data, I specialize in transforming complex, unstructured information into actionable insights and robust predictive models. I thrive at the intersection of statistics and software engineering, solving real-world problems through advanced analytics.</p>
+      
+      <p><strong>Core Focus Areas:</strong></p>
+      <ul>
+        <li>🤖 <b>Computer Vision & Deep Learning</b> (PyTorch, CNNs)</li>
+        <li>📈 <b>Time-Series Forecasting & Stochastic Modeling</b></li>
+        <li>🕸️ <b>Knowledge Graphs & Graph Databases</b> (Neo4j)</li>
+        <li>💻 <b>End-to-End Machine Learning Deployment</b> (Flask)</li>
+      </ul>
+      <p align="center"><i>"Exploring the Grand Line of Technology with passion and perseverance." ⛵</i></p>
+    </td>
+    <td width="35%" valign="top" align="center">
+      <h2 align="center">📫 Let's Connect</h2>
+      <br>
+      <a href="mailto:fabiocyto74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130" /></a><br><br>
+      <a href="https://www.linkedin.com/in/fabio-banyu-cyto-1318782ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130"/></a><br><br>
+      <a href="https://wa.me/6285769715375"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="130"/></a><br><br>
+      <a href="https://www.instagram.com/biyokcb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="130"/></a>
+    </td>
   </tr>
 </table>
 
@@ -43,7 +41,7 @@
 
 <!-- ARSENAL & TECH STACK -->
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
-<table align="center" border="1" bordercolor="#30363d" style="border-collapse: collapse;">
+<table align="center" width="100%" border="1" bordercolor="#30363d" style="border-collapse: collapse;">
   <tr>
     <td width="33%" align="center" valign="top">
       <h3 align="center">💻 Languages</h3>
@@ -71,30 +69,45 @@
 
 <br>
 
-<!-- FEATURED PROJECTS -->
-<h2>🚀 Featured Data Projects</h2>
-<table width="100%" border="0">
+<!-- FEATURED PROJECTS WITH FLEX CARDS -->
+<h2 align="center">🚀 Featured Data Projects</h2>
+<table align="center" width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>🍃 Hoya Leaf Disease Detection</h3>
-      <p>An end-to-end Machine Learning pipeline utilizing <b>ResNet-50</b> and a <b>MobileNetV3 Guardian Model</b> to classify diseases on Hoya plants. Integrated with <b>Neo4j Knowledge Graph</b> for intelligent treatment recommendations and deployed via Flask.</p>
-      <a href="https://github.com/fabiobanyu/Hoya-Leaf-Disease-Detection"><img src="https://img.shields.io/badge/View_Project-150E28?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <h3 align="center">🍃 Hoya Leaf Disease Detection</h3>
+      <p align="justify">An end-to-end Machine Learning pipeline utilizing <b>ResNet-50</b> and a <b>MobileNetV3 Guardian Model</b> to classify diseases on Hoya plants. Integrated with <b>Neo4j Knowledge Graph</b> for intelligent treatment recommendations and deployed via Flask.</p>
+      <!-- REPO CARD FLEX -->
+      <div align="center">
+        <a href="https://github.com/fabiobanyu/Hoya-Leaf-Disease-Detection">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiobanyu&repo=Hoya-Leaf-Disease-Detection&theme=dracula&show_icons=true" width="100%" alt="Hoya Disease Detection"/>
+        </a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3>🚂 National Railway Forecasting</h3>
-      <p>A comprehensive <b>Time-Series Analysis</b> project built with <b>R</b>. Forecasted national railway passenger traffic (2020-2025) to identify seasonal trends and future demand patterns using advanced statistical models.</p>
-      <a href="https://github.com/fabiobanyu/TUBES-ADW-Forecasting-Penumpang-KA"><img src="https://img.shields.io/badge/View_Project-150E28?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <h3 align="center">🚂 National Railway Forecasting</h3>
+      <p align="justify">A comprehensive <b>Time-Series Analysis</b> project built with <b>R</b>. Forecasted national railway passenger traffic (2020-2025) to identify seasonal trends and future demand patterns using advanced statistical models.</p>
+      <!-- REPO CARD FLEX -->
+      <div align="center">
+        <a href="https://github.com/fabiobanyu/TUBES-ADW-Forecasting-Penumpang-KA">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiobanyu&repo=TUBES-ADW-Forecasting-Penumpang-KA&theme=dracula&show_icons=true" width="100%" alt="Railway Forecasting"/>
+        </a>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚶‍♂️ Stochastic Mobility Analysis</h3>
-      <p>Applied <b>Markov Chain</b> modeling in <b>R</b> to analyze and predict the stochastic mobility patterns of university students based on survey data, uncovering short-term movements and steady-state probabilities.</p>
-      <a href="https://github.com/fabiobanyu/TUBES-PemStok-Mobilitas-Mahasiswa"><img src="https://img.shields.io/badge/View_Project-150E28?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <h3 align="center">🚶‍♂️ Stochastic Mobility Analysis</h3>
+      <p align="justify">Applied <b>Markov Chain</b> modeling in <b>R</b> to analyze and predict the stochastic mobility patterns of university students based on survey data, uncovering short-term movements and steady-state probabilities.</p>
+      <!-- REPO CARD FLEX -->
+      <div align="center">
+        <a href="https://github.com/fabiobanyu/TUBES-PemStok-Mobilitas-Mahasiswa">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiobanyu&repo=TUBES-PemStok-Mobilitas-Mahasiswa&theme=dracula&show_icons=true" width="100%" alt="Stochastic Mobility"/>
+        </a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <h3>🌟 Next Grand Adventure...</h3>
-      <p>Continuously learning and building more exciting projects in the realm of Data Science, Artificial Intelligence, and Big Data Analytics. Stay tuned!</p>
+      <h3 align="center">🌟 Next Grand Adventure...</h3>
+      <p align="justify">Continuously learning and building more exciting projects in the realm of Data Science, Artificial Intelligence, and Big Data Analytics. Exploring new frameworks and writing cleaner codes. Stay tuned for my next breakthrough!</p>
     </td>
   </tr>
 </table>
