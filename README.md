@@ -10,6 +10,7 @@
 
 <br>
 
+<!-- SOCIAL LINKS -->
 <div align="center">
 <a href="https://www.linkedin.com/in/fabio-banyu-cyto-1318782ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:fabiocyto74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -19,13 +20,15 @@
 
 <br><br>
 
-<!-- ABOUT ME & GITHUB ANALYTICS FASTFETCH HUD -->
-<table align="center" width="100%" border="0" style="border-collapse: collapse;">
-<tr>
-<td width="52%" valign="top">
+<!-- ABOUT ME (LEGA & TIDAK TERJEPIT) -->
 <h2 align="center">👋 About Me</h2>
-<p align="justify">I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b>. Driven by an insatiable curiosity for data, I specialize in transforming complex, unstructured information into actionable insights and robust predictive models. I thrive at the intersection of statistics and software engineering, solving real-world problems through advanced analytics.</p>
+
+<p align="justify">
+I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b>. Driven by an insatiable curiosity for data, I specialize in transforming complex, unstructured information into actionable insights and robust predictive models. I thrive at the intersection of statistics and software engineering, solving real-world problems through advanced analytics.
+</p>
+
 <br>
+
 <p><strong>🔥 Core Focus Areas:</strong></p>
 <ul>
 <li>🤖 <b>Computer Vision & Deep Learning</b> <i>(PyTorch, CNNs, LSTM)</i></li>
@@ -33,31 +36,19 @@
 <li>🌐 <b>Frontend Website Developer:</b> <i>HTML, CSS, JavaScript, React.js, Tailwind</i></li>
 <li>💻 <b>End-to-End Machine Learning Deployment</b> <i>(Flask, API)</i></li>
 </ul>
-</td>
-
-<!-- FASTFETCH TERMINAL HUD CARD -->
-<td width="48%" valign="top">
-
-<pre>
-<b>fabio@itera-ai</b>:<b>~</b>$ fastfetch --data-stats
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- 📊 <b>CONTRIBUTIONS</b>  │ <b>329</b> Total • 🔥 <b>1</b> Streak • ⚡ <b>6</b> Max
- 📁 <b>REPOSITORIES</b>   │ <b>12</b> Repos  • ⭐ <b>8</b> Stars  • 👥 <b>24</b> Fans
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- 🧠 <b>DEVELOPMENT FOCUS & STACK</b>
- ├─ 🐍 <b>Python</b>      ████████████████████ <b>Primary</b>
- ├─ 🔥 <b>PyTorch</b>     ████████████████░░░░ <b>AI / ML</b>
- ├─ ⚛️ <b>React.js</b>    ████████████░░░░░░░░ <b>Frontend</b>
- └─ 🌐 <b>Flask/APIs</b>  ██████████████░░░░░░ <b>Deployment</b>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- 🎯 <b>STATUS</b>        │ Building King of Data Science ⚡
-</pre>
-
-</td>
-</tr>
-</table>
 
 <br>
+
+<!-- GITHUB ANALYTICS GRID (PERSIS SEPERTI GAMBAR REFERENSI ANURAG HAZRA) -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="195" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="195" />
+</div>
+
+<br><br>
 
 <!-- TECH STACK TABLE -->
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
