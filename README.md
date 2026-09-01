@@ -40,9 +40,20 @@
 </td>
 <td width="45%" valign="top" align="center">
 <h2 align="center">📊 GitHub Analytics</h2>
-<!-- Server Heroku Streak Stats yang anti-error -->
+
+<!-- 1. GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabiobanyu&theme=radical&hide_border=true&background=0D1117" width="100%" />
+<br><br>
+
+<!-- 2. Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="100%" />
+<br><br>
+
+<!-- 3. Real-time Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=fabiobanyu&label=Profile%20Views&color=e10098&style=for-the-badge" />
+
 </td>
+
 </tr>
 </table>
 
