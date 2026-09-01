@@ -48,14 +48,16 @@
   alt="GitHub Streak"
 />
 
-<br><br>
+<br><br><br>
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak - Second Card -->
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=fabiobanyu&theme=radical&hide_border=true&background=0D1117"
   width="100%"
-  alt="GitHub Streak"
+  alt="GitHub Analytics"
 />
+
+</td>
 
 <br><br>
 </td>
