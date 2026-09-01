@@ -27,33 +27,58 @@
 <br>
 <p><strong>🔥 Core Focus Areas:</strong></p>
 <ul>
-<li>🤖 <b>Computer Vision & Deep Learning</b> <i>(PyTorch, CNNs)</i></li>
-<li>📈 <b>Time-Series Forecasting & Stochastic Modeling</b></li>
-<li>🕸️ <b>Knowledge Graphs & Graph Databases</b> <i>(Neo4j)</i></li>
+<li>🤖 <b>Computer Vision & Deep Learning</b> <i>(PyTorch, CNNs, LSTM)</i></li>
+<li>🎵 <b>Audio Recognition and Intelligence</b></li>
+<li>🌐 <b>Frontend Website Developer</b> <i>(HTML, CSS, JavaScript, React.js, Tailwind)</i></li>
 <li>💻 <b>End-to-End Machine Learning Deployment</b> <i>(Flask, API)</i></li>
 </ul>
 </td>
-<td width="45%" valign="top" align="center">
-<h2 align="center">🏆 GitHub Trophies</h2>
+<td width="45%" valign="top">
+
+<!-- GITHUB ANALYTICS - 100% ANTI ERROR (TEKS MANUAL) -->
+<h3>📊 GitHub Analytics</h3>
+<table width="100%" border="0">
+<tr>
+<td align="center"><b>329</b><br>Total<br>Contributions</td>
+<td align="center">🔥 <b>1</b><br>Current<br>Streak</td>
+<td align="center"><b>6</b><br>Longest<br>Streak</td>
+</tr>
+</table>
+
 <br>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=fabiobanyu&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=2" width="100%" />
-</a>
-<br><br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fabiobanyu&theme=radical&hide_border=true&background=0D1117" width="100%" />
+
+<h3>📁 Repository Stats</h3>
+<table width="100%" border="0">
+<tr>
+<td align="center"><b>12</b><br>Repositories</td>
+<td align="center"><b>8</b><br>Stars</td>
+<td align="center"><b>24</b><br>Followers</td>
+</tr>
+</table>
+
+<br>
+
+<h3>🧠 Development Focus</h3>
+<table width="100%" border="0">
+<tr>
+<td align="center"><b>Python</b><br>Primary</td>
+<td align="center"><b>PyTorch</b><br>AI/ML</td>
+<td align="center"><b>React</b><br>Frontend</td>
+</tr>
+</table>
+
 </td>
 </tr>
 </table>
 
 <br>
 
-<!-- BAGIAN TECH STACK SUDAH DIBUATKAN TABEL PENGELOMPOKAN -->
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 <table align="center" width="100%" border="0" style="border-collapse: collapse;">
 <tr>
 <td width="50%" align="center">
 <b>💻 Languages & Web</b><br><br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,r,js,html,css&perline=5" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,r,js,html,css,react,tailwind&perline=7" /></a>
 <br><br>
 </td>
 <td width="50%" align="center">
