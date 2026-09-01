@@ -19,10 +19,10 @@
 
 <br><br>
 
-<!-- ABOUT ME & GITHUB ANALYTICS HUD -->
+<!-- ABOUT ME & GITHUB ANALYTICS DASHBOARD -->
 <table align="center" width="100%" border="0" style="border-collapse: collapse;">
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 <h2 align="center">👋 About Me</h2>
 <p align="justify">I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b>. Driven by an insatiable curiosity for data, I specialize in transforming complex, unstructured information into actionable insights and robust predictive models. I thrive at the intersection of statistics and software engineering, solving real-world problems through advanced analytics.</p>
 <br>
@@ -35,28 +35,26 @@
 </ul>
 </td>
 
-<!-- GITHUB ANALYTICS DASHBOARD HUD -->
-<td width="45%" valign="top" align="center">
-<h3 align="center">📊 GitHub Analytics</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Total_Contributions-329-00D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/Current_Streak-1_🔥-FF4B4B?style=for-the-badge&logoColor=white&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/Longest_Streak-6_Days-9D4EDD?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-</p>
-
-<h3 align="center">📁 Repository Stats</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Repositories-12-2EA043?style=for-the-badge&logo=gitkraken&logoColor=white&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/Stars-8_⭐-F1E05A?style=for-the-badge&logoColor=black&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/Followers-24_👥-58A6FF?style=for-the-badge&logoColor=white&labelColor=0D1117" />
-</p>
-
-<h3 align="center">🧠 Development Focus</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Primary-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/AI%2FML-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" />
-</p>
+<!-- GITHUB ANALYTICS HUD CARD (PRESISI & RATA) -->
+<td width="48%" valign="top" align="center">
+<pre>
+┌────────────────────────────────────────────────────────┐
+│ 📊 <b>GitHub Analytics</b>                                   │
+│                                                        │
+│     <b>329</b>                🔥 <b>1</b>               <b>6</b>            │
+│  Total Contrib.      Current Streak     Longest Streak │
+│                                                        │
+│ 💻 <b>Repository Stats</b>                                    │
+│                                                        │
+│     <b>12</b>                 <b>8</b> ⭐              <b>24</b> 👥         │
+│  Repositories          Total Stars       Followers     │
+│                                                        │
+│ 🧠 <b>Development Focus</b>                                   │
+│                                                        │
+│   <b>Python</b>               <b>PyTorch</b>            <b>React</b>        │
+│   Primary              AI / ML           Frontend      │
+└────────────────────────────────────────────────────────┘
+</pre>
 </td>
 </tr>
 </table>
