@@ -40,7 +40,7 @@
 
 <!-- ARSENAL & TECH STACK -->
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
-<table width="100%" border="1" bordercolor="#30363d" style="border-collapse: collapse;">
+<table align="center" border="1" bordercolor="#30363d" style="border-collapse: collapse;">
   <tr>
     <td width="33%" align="center" valign="top">
       <h3 align="center">💻 Languages</h3>
