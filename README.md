@@ -50,23 +50,14 @@
 
 <br><br>
 
-<!-- Profile Views -->
+<!-- GitHub Streak -->
 <img
-  src="https://komarev.com/ghpvc/?username=fabiobanyu&label=Profile%20Views&style=for-the-badge"
-  alt="Profile Views"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=fabiobanyu&theme=radical&hide_border=true&background=0D1117"
+  width="100%"
+  alt="GitHub Streak"
 />
 
 <br><br>
-
-<p align="center">
-  <b>🚀 Keep Building & Exploring</b>
-</p>
-
-<p align="center">
-  Machine Learning • Deep Learning<br>
-  Computer Vision • Audio Intelligence
-</p>
-
 </td>
 </tr>
 </table>
