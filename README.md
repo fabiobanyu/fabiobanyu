@@ -39,23 +39,29 @@
 <br>
 
 <!-- ARSENAL & TECH STACK -->
-<h2>🛠️ Tech Stack & Arsenal</h2>
-<table width="100%" border="0">
+<h2 align="center">🛠️ Tech Stack & Arsenal</h2>
+<table width="100%" border="1" bordercolor="#30363d" style="border-collapse: collapse;">
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>💻 Languages</h3>
+      <h3 align="center">💻 Languages</h3>
       <br>
-      <img src="https://skillicons.dev/icons?i=py,r,js,html,css" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=py,r,js,html,css" />
+      </p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>🧠 ML & Data Science</h3>
+      <h3 align="center">🧠 ML & Data Science</h3>
       <br>
-      <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,pandas,numpy" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
+      </p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>⚙️ Tools & Deployment</h3>
+      <h3 align="center">⚙️ Tools & Deployment</h3>
       <br>
-      <img src="https://skillicons.dev/icons?i=git,vscode,flask,linux,postman" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git,vscode,flask,linux,postman" />
+      </p>
     </td>
   </tr>
 </table>
