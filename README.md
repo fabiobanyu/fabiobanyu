@@ -50,21 +50,22 @@
 
 <br><br>
 
-<!-- GitHub Statistics -->
+<!-- Profile Views -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117"
-  width="100%"
-  alt="GitHub Stats"
+  src="https://komarev.com/ghpvc/?username=fabiobanyu&label=Profile%20Views&style=for-the-badge"
+  alt="Profile Views"
 />
 
 <br><br>
 
-<!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"
-  width="100%"
-  alt="Top Languages"
-/>
+<p align="center">
+  <b>🚀 Keep Building & Exploring</b>
+</p>
+
+<p align="center">
+  Machine Learning • Deep Learning<br>
+  Computer Vision • Audio Intelligence
+</p>
 
 </td>
 </tr>
