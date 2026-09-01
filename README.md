@@ -36,9 +36,40 @@
 </ul>
 </td>
 <td width="45%" valign="top" align="center">
+
 <h2 align="center">📊 GitHub Analytics</h2>
-<!-- Server diganti ke Heroku Streak Stats yang anti-error -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fabiobanyu&theme=radical&hide_border=true&background=0D1117" width="100%" />
+
+<br>
+
+<!-- GitHub Streak -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=fabiobanyu&theme=radical&hide_border=true&background=0D1117" 
+  width="100%" 
+/>
+
+<br><br>
+
+<!-- GitHub Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=fabiobanyu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" 
+  width="100%" 
+/>
+
+<br><br>
+
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiobanyu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" 
+  width="100%" 
+/>
+
+<br><br>
+
+<!-- Profile Views -->
+<img 
+  src="https://komarev.com/ghpvc/?username=fabiobanyu&label=Profile%20Views&style=for-the-badge" 
+/>
+
 </td>
 </tr>
 </table>
