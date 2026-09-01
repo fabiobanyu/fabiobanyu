@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fabio%20Banyu%20Cyto&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Undergrad%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descFontSize=16&descAlignY=55" width="100%" />
+<!-- Simbol %26 (dan) sudah diganti dengan kata "and" agar tidak error -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Fabio%20Banyu%20Cyto&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Undergrad%20%7C%20AI%20and%20Machine%20Learning%20Enthusiast&descFontSize=16&descAlignY=55" width="100%" />
 </div>
 
 <div align="center">
@@ -51,15 +52,17 @@ Besides model development, I am also interested in the <b>application and integr
 
 </td>
 
+<!-- BAGIAN INI SUDAH DIGANTI 100% ANTI ERROR -->
 <td width="45%" valign="top" align="center">
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🎯 Domain Expertise</h2>
 
 <br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=fabiobanyu&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=2" width="100%" />
-</a>
+<img src="https://img.shields.io/badge/Machine_Learning-150E28?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/Computer_Vision-150E28?style=for-the-badge&logo=opencv&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/Audio_Intelligence-150E28?style=for-the-badge&logo=soundcloud&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/Web_Integration-150E28?style=for-the-badge&logo=flask&logoColor=white" />
 
 <br><br><br>
 
@@ -126,7 +129,7 @@ A <b>Time-Series Analysis</b> project using <b>R</b> to analyze national railway
 
 <td width="50%" valign="top" align="center">
 
-<h3>🚶‍♂️ Stochastic Mobility Analysis</h3>
+<h3>🚶♂️ Stochastic Mobility Analysis</h3>
 
 <p align="justify">
 A <b>Markov Chain</b> project developed in <b>R</b> to explore student mobility patterns based on survey data. The analysis examines transition probabilities, short-term movement patterns, and steady-state probabilities.
@@ -166,9 +169,9 @@ An interactive <b>data visualization</b> project focused on presenting datasets 
 
 <div align="center">
 
-🤖 Deep Learning   •  
-👁️ Computer Vision   •  
-🎵 Audio Intelligence   •  
+🤖 Deep Learning &nbsp; • &nbsp;
+👁️ Computer Vision &nbsp; • &nbsp;
+🎵 Audio Intelligence &nbsp; • &nbsp;
 🌐 AI Application Development
 
 </div>
