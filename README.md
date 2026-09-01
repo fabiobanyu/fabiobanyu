@@ -19,6 +19,7 @@
 
 <br><br>
 
+<!-- ABOUT ME & GITHUB ANALYTICS HUD -->
 <table align="center" width="100%" border="0" style="border-collapse: collapse;">
 <tr>
 <td width="55%" valign="top">
@@ -28,51 +29,41 @@
 <p><strong>🔥 Core Focus Areas:</strong></p>
 <ul>
 <li>🤖 <b>Computer Vision & Deep Learning</b> <i>(PyTorch, CNNs, LSTM)</i></li>
-<li>🎵 <b>Audio Recognition and Intelligence</b></li>
-<li>🌐 <b>Frontend Website Developer</b> <i>(HTML, CSS, JavaScript, React.js, Tailwind)</i></li>
+<li>📈 <b>Audio Recognition and Intelligence</b></li>
+<li>🌐 <b>Frontend Website Developer:</b> <i>HTML, CSS, JavaScript, React.js, Tailwind</i></li>
 <li>💻 <b>End-to-End Machine Learning Deployment</b> <i>(Flask, API)</i></li>
 </ul>
 </td>
-<td width="45%" valign="top">
 
-<!-- GITHUB ANALYTICS - 100% ANTI ERROR (TEKS MANUAL) -->
-<h3>📊 GitHub Analytics</h3>
-<table width="100%" border="0">
-<tr>
-<td align="center"><b>329</b><br>Total<br>Contributions</td>
-<td align="center">🔥 <b>1</b><br>Current<br>Streak</td>
-<td align="center"><b>6</b><br>Longest<br>Streak</td>
-</tr>
-</table>
+<!-- GITHUB ANALYTICS DASHBOARD HUD -->
+<td width="45%" valign="top" align="center">
+<h3 align="center">📊 GitHub Analytics</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Total_Contributions-329-00D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /><br>
+<img src="https://img.shields.io/badge/Current_Streak-1_🔥-FF4B4B?style=for-the-badge&logoColor=white&labelColor=0D1117" /><br>
+<img src="https://img.shields.io/badge/Longest_Streak-6_Days-9D4EDD?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+</p>
 
-<br>
+<h3 align="center">📁 Repository Stats</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Repositories-12-2EA043?style=for-the-badge&logo=gitkraken&logoColor=white&labelColor=0D1117" /><br>
+<img src="https://img.shields.io/badge/Stars-8_⭐-F1E05A?style=for-the-badge&logoColor=black&labelColor=0D1117" /><br>
+<img src="https://img.shields.io/badge/Followers-24_👥-58A6FF?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+</p>
 
-<h3>📁 Repository Stats</h3>
-<table width="100%" border="0">
-<tr>
-<td align="center"><b>12</b><br>Repositories</td>
-<td align="center"><b>8</b><br>Stars</td>
-<td align="center"><b>24</b><br>Followers</td>
-</tr>
-</table>
-
-<br>
-
-<h3>🧠 Development Focus</h3>
-<table width="100%" border="0">
-<tr>
-<td align="center"><b>Python</b><br>Primary</td>
-<td align="center"><b>PyTorch</b><br>AI/ML</td>
-<td align="center"><b>React</b><br>Frontend</td>
-</tr>
-</table>
-
+<h3 align="center">🧠 Development Focus</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Primary-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" /><br>
+<img src="https://img.shields.io/badge/AI%2FML-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" /><br>
+<img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" />
+</p>
 </td>
 </tr>
 </table>
 
 <br>
 
+<!-- TECH STACK TABLE -->
 <h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 <table align="center" width="100%" border="0" style="border-collapse: collapse;">
 <tr>
@@ -97,6 +88,7 @@
 
 <br><br>
 
+<!-- FEATURED PROJECTS -->
 <h2 align="center">🚀 Featured Data Projects</h2>
 <table align="center" width="100%" border="0" style="border-collapse: collapse;">
 <tr>
@@ -131,6 +123,7 @@
 
 <br>
 
+<!-- FOOTER -->
 <div align="center">
 <i>"I'm gonna be the King of Data Science! ⚡"</i><br>
 - inspired by Monkey D. Luffy
