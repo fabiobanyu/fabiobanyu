@@ -87,18 +87,18 @@ alt="GitHub Streak"
 <table width="100%" border="0" cellpadding="4" cellspacing="0">
 <tr align="center">
 <td width="50%">
-<img src="https://img.shields.io/badge/Contrib.-329-00D2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Repos-12-2EA043?style=for-the-badge&logo=gitkraken&logoColor=white&labelColor=0D1117" />
 </td>
 <td width="50%">
-<img src="https://img.shields.io/badge/Repos-12-2EA043?style=for-the-badge&logo=gitkraken&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Stars-8_⭐-FFD83D?style=for-the-badge&logoColor=black&labelColor=0D1117" />
 </td>
 </tr>
 <tr align="center">
 <td width="50%">
-<img src="https://img.shields.io/badge/Stars-8_⭐-FFD83D?style=for-the-badge&logoColor=black&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Followers-24_👥-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 </td>
 <td width="50%">
-<img src="https://img.shields.io/badge/Fans-24_👥-58A6FF?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Primary-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" />
 </td>
 </tr>
 </table>
@@ -210,22 +210,21 @@ Applied <b>Markov Chain</b> modeling in <b>R</b> to analyze student mobility pat
 
 <!-- ==================== PROJECT 4 ==================== -->
 <td width="50%" valign="top" align="center">
-<h3>📊 Data Visualization Dashboard</h3>
+<h3>⚖️ Big Data Analysis: Gender Equality (SDG 5)</h3>
 
 <p align="justify">
-An interactive <b>Data Visualization</b> project focused on presenting datasets through clear and intuitive dashboards. The project explores how data can be transformed into visual insights that are easier to understand and communicate.
+A comprehensive <b>Big Data Analytics</b> project exploring indicators and trends for <b>UN Sustainable Development Goal 5</b>. Leveraged data processing, exploratory analysis, and visual storytelling to uncover actionable insights on global gender equality.
 </p>
 
 <p>
 <b>Tech:</b><br>
-<code>Data Visualization</code> <code>Dashboard</code> <code>Data Analysis</code>
+<code>Python</code> <code>Big Data</code> <code>Data Visualization</code> <code>Statistical Analysis</code>
 </p>
 
-<a href="https://github.com/fabiobanyu?tab=repositories">
+<a href="https://github.com/fabiobanyu/Big-Data-Analysis-Gender-Equality-SDG5">
 <img src="https://img.shields.io/badge/View_Project-150E28?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
-
 
 </tr>
 </table>
