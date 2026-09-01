@@ -27,7 +27,7 @@
 <h2 align="center">👋 About Me</h2>
 <p align="justify">I am a <b>Data Science undergraduate</b> at <b>Institut Teknologi Sumatera (ITERA)</b>. Driven by an insatiable curiosity for data, I specialize in transforming complex, unstructured information into actionable insights and robust predictive models. I thrive at the intersection of statistics and software engineering, solving real-world problems through advanced analytics.</p>
 <br>
-<p><strong>🔥 Core Focus Areas:</strong></p>
+<p>🔥 Core Focus Areas:</strong></p>
 <ul>
 <li>🤖 <b>Computer Vision & Deep Learning</b> <i>(PyTorch, CNNs, LSTM)</i></li>
 <li>🎵 <b>Audio Intelligence & Speech Processing</b></li>
